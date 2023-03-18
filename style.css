@@ -1,0 +1,23 @@
+@media screen and(min-width:500px) {
+    #main-form {
+        display: block;
+    }
+}
+
+#body {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h2 {
+    color: #a698b7;
+    font-weight: 700;
+}
+
+.main-form {
+    /* width: 700px; */
+    height: 500px;
+    margin-top: 0px;
+    border: 1px solid rgb(226, 224, 220);
+    background-color: #e3e8ee;
+    /* display: none; */
+}
